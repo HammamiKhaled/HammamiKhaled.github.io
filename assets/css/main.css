@@ -1848,6 +1848,8 @@ input, select, textarea {
 	form textarea {
 		position: relative;
 		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
 		display: block;
 		border: 0;
 		outline: 0;
@@ -2248,7 +2250,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/51520.jpg");
 			}
 
 			#main > section.two {
